@@ -1,0 +1,21 @@
+Nome do Posto,Endereço,Latitude,Longitude,Cidade,Estado,Capacidade de Carga (kW)
+ChargePoint A,"Rua A, 123",-23.55052,-46.633308,São Paulo,SP,50
+ChargePoint B,"Rua B, 456",-22.970722,-43.182365,Rio de Janeiro,RJ,75
+ChargePoint C,"Rua C, 789",-25.4284,-49.2733,Curitiba,PR,80
+ChargePoint D,"Rua D, 321",-3.71722,-38.5434,Fortaleza,CE,90
+ChargePoint E,"Rua E, 654",-15.7942,-47.8822,Brasília,DF,100
+ChargePoint F,"Rua F, 987",-30.0346,-51.2177,Porto Alegre,RS,60
+ChargePoint G,"Rua G, 111",-8.0476,-34.877,Recife,PE,70
+ChargePoint H,"Rua H, 222",-10.9472,-37.0731,Aracaju,SE,85
+ChargePoint I,"Rua I, 333",-16.6896,-49.2323,Goiânia,GO,95
+ChargePoint J,"Rua J, 444",-12.9714,-38.5014,Salvador,BA,110
+ChargePoint K,"Rua K, 555",-22.7552,-47.8496,Uberlândia,MG,55
+ChargePoint L,"Rua L, 666",-27.5954,-48.548,Florianópolis,SC,65
+ChargePoint M,"Rua M, 777",-3.119,-60.0217,Manaus,AM,85
+ChargePoint N,"Rua N, 888",-5.7944,-35.211,Natal,RN,75
+ChargePoint O,"Rua O, 999",-19.9359,-43.9451,Belo Horizonte,MG,90
+ChargePoint P,"Rua P, 000",-20.4697,-54.6155,Campo Grande,MS,100
+ChargePoint Q,"Rua Q, 112",-23.2237,-45.9009,Taubaté,SP,120
+ChargePoint R,"Rua R, 223",-28.6804,-49.0228,Blumenau,SC,95
+ChargePoint S,"Rua S, 334",-1.4558,-48.5012,Belém,PA,80
+ChargePoint T,"Rua T, 445",-7.1153,-34.877,João Pessoa,PB,110
